@@ -238,6 +238,11 @@ footer {
         padding: 0;
     }
 
+    #iron-man {
+        padding-top: 70px;
+    }
+
+
     .about-page {
         flex-direction: column-reverse;
     }
