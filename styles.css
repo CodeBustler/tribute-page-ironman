@@ -150,6 +150,7 @@ nav img {
   }
 
   90% {
+    z-index: 10;
     transform: scale(1.6);
   }
 
