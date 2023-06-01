@@ -253,4 +253,8 @@ footer {
   .about-page .right-content img {
     width: 85%;
   }
+
+  .movies-list li img {
+    width: 135px;
+  }
 }
