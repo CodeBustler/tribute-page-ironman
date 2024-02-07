@@ -144,7 +144,7 @@ nav img {
 .home-page .left-content img {
     width: 90%;
     animation: boom 4s forwards;
-    animation-delay: .8s;
+    animation-delay: 0.2s;
 }
 
 @keyframes boom {
