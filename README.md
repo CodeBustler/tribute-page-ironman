@@ -1,5 +1,5 @@
 # Tribute Page -ironman
-By using HTML, CSS & JavaScript
+By using HTML & CSS 
 
 ## Live
 
