@@ -1,3 +1,5 @@
-# tributePage-ironman
+# Tribute Page -ironman
+By using HTML, CSS & JavaScript
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-apcy8g)
+## Live
+
